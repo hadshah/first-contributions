@@ -14,9 +14,9 @@
 - [Filip Skukan](https://github.com/skukan159)
 - [Rohith Saranga](https://github.com/rohith203)
 - Abbas
-- [Hadi Chouhdry](https://github.com/hadshah)
 - [Angela Liu] (https://github.com/rgangela99)
 - [pale](https://github.com/Paleless)
+- [Hadi Chouhdry](https://github.com/hadshah)
 -[Marcus Snow](https://github.com/Jay-snow)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
